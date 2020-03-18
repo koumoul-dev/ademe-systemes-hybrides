@@ -1,0 +1,165 @@
+Capteur,Type 1,Type,Description,Unité,file variable name,reference in layout,Site
+sensor_pachy1,Chaudière,Compteur Electrique,Consommation Electrique de la Chaudière,W,puissanceA1,P_el_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Electrique,Energie électrique de la chaudière,kWh,energyA1,E_el_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Electrique,cos phi de la chaudière,-,cosphi1,cos_boil,Site 1
+sensor_pachy1,Chaudière,Comptage gaz,impulsions compteur gaz,m3 x 100,count13,V_gas,Site 1
+sensor_pachy1,Chaudière,Comptage gaz,Température du gaz,°C x 10,in11,T_gas,Site 1
+sensor_pachy1,Chaudière,Comptage gaz,Pression absolue du gaz,bar,in21,p_gas,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate2,flow_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp2,T_sup_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp2,T_ret_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique chauffage,Puissance thermique chauffage,W,power2,P_th_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy2,E_th_boil,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate1,flow_ecs,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp1,T_ecs,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique ECS,Température de retour ECS,°C,return_temp1,T_ef,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique ECS,Puissance thermique ECS,W,power1,P_th_ecs,Site 1
+sensor_pachy1,Chaudière,Compteur Thermique ECS,Energie thermique ECS,kWh,energy1,E_th_ecs,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Electrique,Consommation Electrique de la Pompe à chaleur,W,puissanceA2,P_el_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Electrique,Energie électrique de la Pompe à chaleur,kWh,energy2,E_el_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Electrique,cos phi de la Pompe à chaleur,-,cosphi2,cos_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate3,flow_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp3,T_sup_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp3,T_ret_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Thermique chauffage,Puissance thermique chauffage,W,power3,P_th_hp,Site 1
+sensor_pachy1,Pompe à chaleur,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy3,E_th_hp,Site 1
+sensor_pachy1,Conditions d'ambiances,compteur radio,Température Extérieure,°C,temp_ext,T_external,Site 1
+sensor_pachy1,Conditions d'ambiances,compteur radio,Température salon,°C,temperature1,T_living,Site 1
+sensor_pachy1,Conditions d'ambiances,compteur radio,Humidité relative salon,%,humidity1,HR_living,Site 1
+sensor_pachy1,Conditions d'ambiances,compteur radio,Température chambre,°C,temperature2,T_bedroom,Site 1
+sensor_pachy1,Conditions d'ambiances,compteur radio,Humidité relative chambre,%,humidity2,HR_bedroom,Site 1
+sensor_pachy2,Chaudière,Compteur Electrique,Consommation Electrique de la Chaudière,W,puissanceA1,P_el_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Electrique,Energie électrique de la chaudière,kWh,energyA1,E_el_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Electrique,cos phi de la chaudière,-,cosphi1,cos_boil,Site 2
+sensor_pachy2,Chaudière,Comptage gaz,impulsions compteur gaz,m3 x 100,count13,V_gas,Site 2
+sensor_pachy2,Chaudière,Comptage gaz,Température du gaz,°C x 10,in11,T_gas,Site 2
+sensor_pachy2,Chaudière,Comptage gaz,Pression absolue du gaz,bar x 1000,in21,p_gas,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate2,flow_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp2,T_sup_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp2,T_ret_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique chauffage,Puissance thermique chauffage,W,power2,P_th_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy2,E_th_boil,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate1,flow_ecs,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp1,T_ecs,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique ECS,Température de retour ECS,°C,return_temp1,T_ef,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique ECS,Puissance thermique ECS,W,power1,P_th_ecs,Site 2
+sensor_pachy2,Chaudière,Compteur Thermique ECS,Energie thermique ECS,kWh,energy1,E_th_ecs,Site 2
+sensor_pachy2,CET,Compteur Electrique,Consommation Electrique du CET,W,puissanceA2,P_el_hp,Site 2
+sensor_pachy2,CET,Compteur Electrique,Energie électrique du CET,kWh,energy2,E_el_hp,Site 2
+sensor_pachy2,CET,Compteur Electrique,cos phi du CET,-,cosphi2,cos_hp,Site 2
+sensor_pachy2,CET,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate3,flow_hp,Site 2
+sensor_pachy2,CET,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp3,T_sup_hp,Site 2
+sensor_pachy2,CET,Compteur Thermique ECS,Température de retour ECS,°C,return_temp3,T_ret_hp,Site 2
+sensor_pachy2,CET,Compteur Thermique ECS,Puissance thermique ECS,W,power3,P_th_hp,Site 2
+sensor_pachy2,CET,Compteur Thermique ECS,Energie thermique ECS,kWh,energy3,E_th_hp,Site 2
+sensor_pachy2,Conditions d'ambiances,compteur radio,Température Extérieure,°C,in12 / temp_out,T_external,Site 2
+sensor_pachy2,Conditions d'ambiances,compteur radio,Température salon,°C,temperature1,T_living,Site 2
+sensor_pachy2,Conditions d'ambiances,compteur radio,Humidité relative salon,%,humidity1,HR_living,Site 2
+sensor_pachy2,Conditions d'ambiances,compteur radio,Température chambre,°C,temperature2,T_bedroom,Site 2
+sensor_pachy2,Conditions d'ambiances,compteur radio,Humidité relative chambre,%,humidity2,HR_bedroom,Site 2
+sensor_pachy3,Chaudière,Compteur Electrique,Consommation Electrique de la Chaudière,W,puissanceA1,P_el_boil,Site 3
+sensor_pachy3,Chaudière,Compteur Electrique,Energie électrique de la chaudière,kWh,energyA1,E_el_boil,Site 3
+sensor_pachy3,Chaudière,Compteur Electrique,cos phi de la chaudière,-,cosphi1,cos_boil,Site 3
+sensor_pachy3,Chaudière,Comptage gaz,impulsions compteur gaz,m3 x 100,count13,V_gas,Site 3
+sensor_pachy3,Chaudière,Comptage gaz,Température du gaz,°C x 10,in11,T_gas,Site 3
+sensor_pachy3,Chaudière,Comptage gaz,Pression absolue du gaz,bar x 1000,in21,p_gas,Site 3
+sensor_pachy3,Pompe à chaleur,Compteur Electrique,Consommation Electrique de la Pompe à chaleur,W,puissanceA2,P_el_hp,Site 3
+sensor_pachy3,Pompe à chaleur,Compteur Electrique,Energie électrique de la Pompe à chaleur,kWh,energy2,E_el_hp,Site 3
+sensor_pachy3,Pompe à chaleur,Compteur Electrique,cos phi de la Pompe à chaleur,-,cosphi2,cos_hp,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate1,flow_ecs,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp1,T_ecs,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique ECS,Température de retour ECS,°C,return_temp1,T_ef,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique ECS,Puissance thermique ECS,W,power1,P_th_ecs,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique ECS,Energie thermique ECS,kWh,energy1,E_th_ecs,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique charge ballon,Débit d'eau charge,l/h,flow_rate2,flow_load,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique charge ballon,Température de départ charge,°C,forward_temp2,T_sup_load,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique charge ballon,Température de retour charge,°C,return_temp2,T_ret_load,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique charge ballon,Puissance thermique charge,W,power2,P_th_load,Site 3
+sensor_pachy3,Ballon ECS,Compteur Thermique charge ballon,Energie thermique charge,kWh,energy2,E_th_load,Site 3
+sensor_pachy3,Chauffage,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate3,flow_h,Site 3
+sensor_pachy3,Chauffage,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp3,T_sup_h,Site 3
+sensor_pachy3,Chauffage,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp3,T_ret_h,Site 3
+sensor_pachy3,Chauffage,Compteur Thermique chauffage,Puissance thermique chauffage,W,power3,P_th_h,Site 3
+sensor_pachy3,Chauffage,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy3,E_th_h,Site 3
+sensor_pachy3,Conditions d'ambiances,compteur radio,Température Extérieure,°C,temp_out,T_external,Site 3
+sensor_pachy3,Conditions d'ambiances,compteur radio,Température salon,°C,temperature1,T_living,Site 3
+sensor_pachy3,Conditions d'ambiances,compteur radio,Humidité relative salon,%,humidity1,HR_living,Site 3
+sensor_pachy3,Conditions d'ambiances,compteur radio,Température chambre,°C,temperature2,T_bedroom,Site 3
+sensor_pachy3,Conditions d'ambiances,compteur radio,Humidité relative chambre,%,humidity2,HR_bedroom,Site 3
+sensor_pachy4,Chaudière,Compteur Electrique,Consommation Electrique de la Chaudière,W,puissanceA1,P_el_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Electrique,Energie électrique de la chaudière,kWh,energyA1,E_el_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Electrique,cos phi de la chaudière,-,cosphi1,cos_boil,Site 4
+sensor_pachy4,Chaudière,Comptage gaz,impulsions compteur gaz,m3 x 100,count13,V_gas,Site 4
+sensor_pachy4,Chaudière,Comptage gaz,Température du gaz,°C x 10,in11,T_gas,Site 4
+sensor_pachy4,Chaudière,Comptage gaz,Pression absolue du gaz,bar x 1000,in21,p_gas,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate2,flow_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp2,T_sup_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp2,T_ret_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique chauffage,Puissance thermique chauffage,W,power2,P_th_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy2,E_th_boil,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate1,flow_ecs,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp1,T_ecs,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique ECS,Température de retour ECS,°C,return_temp1,T_ef,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique ECS,Puissance thermique ECS,W,power1,P_th_ecs,Site 4
+sensor_pachy4,Chaudière,Compteur Thermique ECS,Energie thermique ECS,kWh,energy1,E_th_ecs,Site 4
+sensor_pachy4,CET,Compteur Electrique,Consommation Electrique du CET,W,puissanceA2,P_el_hp,Site 4
+sensor_pachy4,CET,Compteur Electrique,Energie électrique du CET,kWh,energy2,E_el_hp,Site 4
+sensor_pachy4,CET,Compteur Electrique,cos phi du CET,-,cosphi2,cos_hp,Site 4
+sensor_pachy4,CET,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate3,flow_hp,Site 4
+sensor_pachy4,CET,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp3,T_sup_hp,Site 4
+sensor_pachy4,CET,Compteur Thermique ECS,Température de retour ECS,°C,return_temp3,T_ret_hp,Site 4
+sensor_pachy4,CET,Compteur Thermique ECS,Puissance thermique ECS,W,power3,P_th_hp,Site 4
+sensor_pachy4,CET,Compteur Thermique ECS,Energie thermique ECS,kWh,energy3,E_th_hp,Site 4
+sensor_pachy4,Conditions d'ambiances,compteur radio,Température Extérieure,°C,in12 / temp_out,T_external,Site 4
+sensor_pachy4,Conditions d'ambiances,compteur radio,Température salon,°C,temperature1,T_living,Site 4
+sensor_pachy4,Conditions d'ambiances,compteur radio,Humidité relative salon,%,humidity1,HR_living,Site 4
+sensor_pachy4,Conditions d'ambiances,compteur radio,Température chambre,°C,temperature2,T_bedroom,Site 4
+sensor_pachy4,Conditions d'ambiances,compteur radio,Humidité relative chambre,%,humidity2,HR_bedroom,Site 4
+sensor_pachy5,Chaudière,Compteur Electrique,Consommation Electrique de la Chaudière,W,puissanceA1,P_el_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Electrique,Energie électrique de la chaudière,kWh,energyA1,E_el_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Electrique,cos phi de la chaudière,-,cosphi1,cos_boil,Site 5
+sensor_pachy5,Chaudière,Comptage gaz,impulsions compteur gaz,m3 x 100,count13,V_gas,Site 5
+sensor_pachy5,Chaudière,Comptage gaz,Température du gaz,°C x 10,in11,T_gas,Site 5
+sensor_pachy5,Chaudière,Comptage gaz,Pression absolue du gaz,"bar x 0,16",in21,p_gas,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate2,flow_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp2,T_sup_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp2,T_ret_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique chauffage,Puissance thermique chauffage,W,power2,P_th_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy2,E_th_boil,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate1,flow_ecs,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp1,T_ecs,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique ECS,Température de retour ECS,°C,return_temp1,T_ef,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique ECS,Puissance thermique ECS,W,power1,P_th_ecs,Site 5
+sensor_pachy5,Chaudière,Compteur Thermique ECS,Energie thermique ECS,kWh,energy1,E_th_ecs,Site 5
+sensor_pachy5,Pompe à chaleur,Compteur Electrique,Consommation Electrique de la Pompe à chaleur,W,puissanceA2,P_el_hp,Site 5
+sensor_pachy5,Pompe à chaleur,Compteur Electrique,Energie électrique de la Pompe à chaleur,kWh,energy2,E_el_hp,Site 5
+sensor_pachy5,Pompe à chaleur,Compteur Electrique,cos phi de la Pompe à chaleur,-,cosphi2,cos_hp,Site 5
+sensor_pachy5,Conditions d'ambiances,compteur radio,Température Extérieure,°C,temperature_ext,T_external,Site 5
+sensor_pachy5,Conditions d'ambiances,compteur radio,Température salon,°C,temperature1,T_living,Site 5
+sensor_pachy5,Conditions d'ambiances,compteur radio,Humidité relative salon,%,humidity1,HR_living,Site 5
+sensor_pachy5,Conditions d'ambiances,compteur radio,Température chambre,°C,temperature2,T_bedroom,Site 5
+sensor_pachy5,Conditions d'ambiances,compteur radio,Humidité relative chambre,%,humidity2,HR_bedroom,Site 5
+sensor_pachy5b,Chaudière,Compteur Electrique,Consommation Electrique de la Chaudière,W,puissanceA1,P_el_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Electrique,Energie électrique de la chaudière,kWh,energyA1,E_el_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Electrique,cos phi de la chaudière,-,cosphi1,cos_boil,Site 5
+sensor_pachy5b,Chaudière,Comptage gaz,impulsions compteur gaz,m3 x 100,count13,V_gas,Site 5
+sensor_pachy5b,Chaudière,Comptage gaz,Température du gaz,°C x 10,in11,T_gas,Site 5
+sensor_pachy5b,Chaudière,Comptage gaz,Pression absolue du gaz,"bar x 0,16",in21,p_gas,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique chauffage,Débit d'eau chauffage,l/h,flow_rate2,flow_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique chauffage,Température de départ chauffage,°C,forward_temp2,T_sup_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique chauffage,Température de retour chauffage,°C,return_temp2,T_ret_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique chauffage,Puissance thermique chauffage,W,power2,P_th_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique chauffage,Energie thermique chauffage,kWh,energy2,E_th_boil,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique ECS,Débit d'eau ECS,l/h,flow_rate1,flow_ecs,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique ECS,Température de départ ECS,°C,forward_temp1,T_ecs,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique ECS,Température de retour ECS,°C,return_temp1,T_ef,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique ECS,Puissance thermique ECS,W,power1,P_th_ecs,Site 5
+sensor_pachy5b,Chaudière,Compteur Thermique ECS,Energie thermique ECS,kWh,energy1,E_th_ecs,Site 5
+sensor_pachy5b,Pompe à chaleur,Compteur Electrique,Consommation Electrique de la Pompe à chaleur,W,puissanceA2,P_el_hp,Site 5
+sensor_pachy5b,Pompe à chaleur,Compteur Electrique,Energie électrique de la Pompe à chaleur,kWh,energy2,E_el_hp,Site 5
+sensor_pachy5b,Pompe à chaleur,Compteur Electrique,cos phi de la Pompe à chaleur,-,cosphi2,cos_hp,Site 5
+sensor_pachy5b,Conditions d'ambiances,compteur radio,Température Extérieure,°C,temperature_ext,T_external,Site 5
+sensor_pachy5b,Conditions d'ambiances,compteur radio,Température salon,°C,temperature1,T_living,Site 5
+sensor_pachy5b,Conditions d'ambiances,compteur radio,Humidité relative salon,%,humidity1,HR_living,Site 5
+sensor_pachy5b,Conditions d'ambiances,compteur radio,Température chambre,°C,temperature2,T_bedroom,Site 5
+sensor_pachy5b,Conditions d'ambiances,compteur radio,Humidité relative chambre,%,humidity2,HR_bedroom,Site 5

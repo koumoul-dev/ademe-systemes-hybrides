@@ -1,0 +1,163 @@
+Site,Capteur,Variable,Unité théorique,Unité remontée
+Site 1,sensor_pachy1,puissanceA1,W,kW
+Site 1,sensor_pachy1,energyA1,kWh,kWh
+Site 1,sensor_pachy1,cosphi1,-,
+Site 1,sensor_pachy1,count13,m3 x 100,-
+Site 1,sensor_pachy1,in11,°C x 10,[-]
+Site 1,sensor_pachy1,in21,bar,[-]
+Site 1,sensor_pachy1,flow_rate2,l/h,l/h
+Site 1,sensor_pachy1,forward_temp2,°C,degC
+Site 1,sensor_pachy1,return_temp2,°C,degC
+Site 1,sensor_pachy1,power2,W,W
+Site 1,sensor_pachy1,energy2,kWh,W/h
+Site 1,sensor_pachy1,flow_rate1,l/h,l/h
+Site 1,sensor_pachy1,forward_temp1,°C,degC
+Site 1,sensor_pachy1,return_temp1,°C,degC
+Site 1,sensor_pachy1,power1,W,W
+Site 1,sensor_pachy1,energy1,kWh,W/h
+Site 1,sensor_pachy1,puissanceA2,W,kW
+Site 1,sensor_pachy1,energy2,kWh,W/h
+Site 1,sensor_pachy1,cosphi2,-,
+Site 1,sensor_pachy1,flow_rate3,l/h,l/h
+Site 1,sensor_pachy1,forward_temp3,°C,degC
+Site 1,sensor_pachy1,return_temp3,°C,degC
+Site 1,sensor_pachy1,power3,W,W
+Site 1,sensor_pachy1,energy3,kWh,W/h
+Site 1,sensor_pachy1,temp_ext,°C,degC
+Site 1,sensor_pachy1,temperature1,°C,degC
+Site 1,sensor_pachy1,humidity1,%,%
+Site 1,sensor_pachy1,temperature2,°C,degC
+Site 1,sensor_pachy1,humidity2,%,%
+Site 2,sensor_pachy2,puissanceA1,W,kW
+Site 2,sensor_pachy2,energyA1,kWh,kWh
+Site 2,sensor_pachy2,cosphi1,-,
+Site 2,sensor_pachy2,count13,m3 x 100,-
+Site 2,sensor_pachy2,in11,°C x 10,[-]
+Site 2,sensor_pachy2,in21,bar x 1000,[-]
+Site 2,sensor_pachy2,flow_rate2,l/h,l/h
+Site 2,sensor_pachy2,forward_temp2,°C,degC
+Site 2,sensor_pachy2,return_temp2,°C,degC
+Site 2,sensor_pachy2,power2,W,W
+Site 2,sensor_pachy2,energy2,kWh,W/h
+Site 2,sensor_pachy2,flow_rate1,l/h,l/h
+Site 2,sensor_pachy2,forward_temp1,°C,degC
+Site 2,sensor_pachy2,return_temp1,°C,degC
+Site 2,sensor_pachy2,power1,W,W
+Site 2,sensor_pachy2,energy1,kWh,W/h
+Site 2,sensor_pachy2,puissanceA2,W,kW
+Site 2,sensor_pachy2,energy2,kWh,W/h
+Site 2,sensor_pachy2,cosphi2,-,
+Site 2,sensor_pachy2,flow_rate3,l/h,l/h
+Site 2,sensor_pachy2,forward_temp3,°C,degC
+Site 2,sensor_pachy2,return_temp3,°C,degC
+Site 2,sensor_pachy2,power3,W,W
+Site 2,sensor_pachy2,energy3,kWh,W/h
+Site 2,sensor_pachy2,in12 / temp_out,°C,variable non présente
+Site 2,sensor_pachy2,temperature1,°C,degC
+Site 2,sensor_pachy2,humidity1,%,%
+Site 2,sensor_pachy2,temperature2,°C,degC
+Site 2,sensor_pachy2,humidity2,%,%
+Site 3,sensor_pachy3,puissanceA1,W,variable non présente
+Site 3,sensor_pachy3,energyA1,kWh,variable non présente
+Site 3,sensor_pachy3,cosphi1,-,variable non présente
+Site 3,sensor_pachy3,count13,m3 x 100,-
+Site 3,sensor_pachy3,in11,°C x 10,[-]
+Site 3,sensor_pachy3,in21,bar x 1000,[-]
+Site 3,sensor_pachy3,puissanceA2,W,variable non présente
+Site 3,sensor_pachy3,energy2,kWh,W/h
+Site 3,sensor_pachy3,cosphi2,-,variable non présente
+Site 3,sensor_pachy3,flow_rate1,l/h,l/h
+Site 3,sensor_pachy3,forward_temp1,°C,degC
+Site 3,sensor_pachy3,return_temp1,°C,degC
+Site 3,sensor_pachy3,power1,W,W
+Site 3,sensor_pachy3,energy1,kWh,W/h
+Site 3,sensor_pachy3,flow_rate2,l/h,l/h
+Site 3,sensor_pachy3,forward_temp2,°C,degC
+Site 3,sensor_pachy3,return_temp2,°C,degC
+Site 3,sensor_pachy3,power2,W,W
+Site 3,sensor_pachy3,energy2,kWh,W/h
+Site 3,sensor_pachy3,flow_rate3,l/h,l/h
+Site 3,sensor_pachy3,forward_temp3,°C,degC
+Site 3,sensor_pachy3,return_temp3,°C,degC
+Site 3,sensor_pachy3,power3,W,W
+Site 3,sensor_pachy3,energy3,kWh,W/h
+Site 3,sensor_pachy3,temp_out,°C,degC
+Site 3,sensor_pachy3,temperature1,°C,degC
+Site 3,sensor_pachy3,humidity1,%,%
+Site 3,sensor_pachy3,temperature2,°C,degC
+Site 3,sensor_pachy3,humidity2,%,%
+Site 4,sensor_pachy4,puissanceA1,W,kW
+Site 4,sensor_pachy4,energyA1,kWh,kWh
+Site 4,sensor_pachy4,cosphi1,-,
+Site 4,sensor_pachy4,count13,m3 x 100,-
+Site 4,sensor_pachy4,in11,°C x 10,[-]
+Site 4,sensor_pachy4,in21,bar x 1000,[-]
+Site 4,sensor_pachy4,flow_rate2,l/h,l/h
+Site 4,sensor_pachy4,forward_temp2,°C,degC
+Site 4,sensor_pachy4,return_temp2,°C,degC
+Site 4,sensor_pachy4,power2,W,W
+Site 4,sensor_pachy4,energy2,kWh,W/h
+Site 4,sensor_pachy4,flow_rate1,l/h,l/h
+Site 4,sensor_pachy4,forward_temp1,°C,degC
+Site 4,sensor_pachy4,return_temp1,°C,degC
+Site 4,sensor_pachy4,power1,W,W
+Site 4,sensor_pachy4,energy1,kWh,W/h
+Site 4,sensor_pachy4,puissanceA2,W,kW
+Site 4,sensor_pachy4,energy2,kWh,W/h
+Site 4,sensor_pachy4,cosphi2,-,
+Site 4,sensor_pachy4,flow_rate3,l/h,l/h
+Site 4,sensor_pachy4,forward_temp3,°C,degC
+Site 4,sensor_pachy4,return_temp3,°C,degC
+Site 4,sensor_pachy4,power3,W,W
+Site 4,sensor_pachy4,energy3,kWh,W/h
+Site 4,sensor_pachy4,in12 / temp_out,°C,variable non présente
+Site 4,sensor_pachy4,temperature1,°C,degC
+Site 4,sensor_pachy4,humidity1,%,%
+Site 4,sensor_pachy4,temperature2,°C,degC
+Site 4,sensor_pachy4,humidity2,%,%
+Site 5,sensor_pachy5,puissanceA1,W,kW
+Site 5,sensor_pachy5,energyA1,kWh,kWh
+Site 5,sensor_pachy5,cosphi1,-,
+Site 5,sensor_pachy5,count13,m3 x 100,variable non présente
+Site 5,sensor_pachy5,in11,°C x 10,[-]
+Site 5,sensor_pachy5,flow_rate2,l/h,l/h
+Site 5,sensor_pachy5,forward_temp2,°C,degC
+Site 5,sensor_pachy5,return_temp2,°C,degC
+Site 5,sensor_pachy5,power2,W,W
+Site 5,sensor_pachy5,energy2,kWh,W/h
+Site 5,sensor_pachy5,flow_rate1,l/h,l/h
+Site 5,sensor_pachy5,forward_temp1,°C,degC
+Site 5,sensor_pachy5,return_temp1,°C,degC
+Site 5,sensor_pachy5,power1,W,W
+Site 5,sensor_pachy5,energy1,kWh,W/h
+Site 5,sensor_pachy5,puissanceA2,W,kW
+Site 5,sensor_pachy5,energy2,kWh,W/h
+Site 5,sensor_pachy5,cosphi2,-,
+Site 5,sensor_pachy5,temperature_ext,°C,variable non présente
+Site 5,sensor_pachy5,temperature1,°C,variable non présente
+Site 5,sensor_pachy5,humidity1,%,variable non présente
+Site 5,sensor_pachy5,temperature2,°C,variable non présente
+Site 5,sensor_pachy5,humidity2,%,variable non présente
+Site 5,sensor_pachy5b,puissanceA1,W,variable non présente
+Site 5,sensor_pachy5b,energyA1,kWh,variable non présente
+Site 5,sensor_pachy5b,cosphi1,-,variable non présente
+Site 5,sensor_pachy5b,count13,m3 x 100,variable non présente
+Site 5,sensor_pachy5b,in11,°C x 10,variable non présente
+Site 5,sensor_pachy5b,flow_rate2,l/h,variable non présente
+Site 5,sensor_pachy5b,forward_temp2,°C,variable non présente
+Site 5,sensor_pachy5b,return_temp2,°C,variable non présente
+Site 5,sensor_pachy5b,power2,W,variable non présente
+Site 5,sensor_pachy5b,energy2,kWh,variable non présente
+Site 5,sensor_pachy5b,flow_rate1,l/h,variable non présente
+Site 5,sensor_pachy5b,forward_temp1,°C,variable non présente
+Site 5,sensor_pachy5b,return_temp1,°C,variable non présente
+Site 5,sensor_pachy5b,power1,W,variable non présente
+Site 5,sensor_pachy5b,energy1,kWh,variable non présente
+Site 5,sensor_pachy5b,puissanceA2,W,variable non présente
+Site 5,sensor_pachy5b,energy2,kWh,variable non présente
+Site 5,sensor_pachy5b,cosphi2,-,variable non présente
+Site 5,sensor_pachy5b,temperature_ext,°C,degC
+Site 5,sensor_pachy5b,temperature1,°C,degC
+Site 5,sensor_pachy5b,humidity1,%,variable non présente
+Site 5,sensor_pachy5b,temperature2,°C,variable non présente
+Site 5,sensor_pachy5b,humidity2,%,variable non présente

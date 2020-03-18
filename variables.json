@@ -1,0 +1,742 @@
+{
+  "sensor_pachy1": {
+    "cosphi2": {
+      "unit": "",
+      "cpt": 1460620
+    },
+    "puissanceA2": {
+      "unit": "kW",
+      "cpt": 1353306
+    },
+    "power3": {
+      "unit": "W",
+      "cpt": 522599
+    },
+    "flow_rate3": {
+      "unit": "l/h",
+      "cpt": 507134
+    },
+    "temp_diff2": {
+      "unit": "degC",
+      "cpt": 834459
+    },
+    "forward_temp1": {
+      "unit": "degC",
+      "cpt": 1062306
+    },
+    "forward_temp3": {
+      "unit": "degC",
+      "cpt": 966291
+    },
+    "temp_diff3": {
+      "unit": "degC",
+      "cpt": 819095
+    },
+    "forward_temp2": {
+      "unit": "degC",
+      "cpt": 906384
+    },
+    "return_temp1": {
+      "unit": "degC",
+      "cpt": 866488
+    },
+    "return_temp3": {
+      "unit": "degC",
+      "cpt": 939842
+    },
+    "return_temp2": {
+      "unit": "degC",
+      "cpt": 914843
+    },
+    "temp_diff1": {
+      "unit": "degC",
+      "cpt": 1094209
+    },
+    "energy1": {
+      "unit": "W/h",
+      "cpt": 6672
+    },
+    "puissanceA1": {
+      "unit": "kW",
+      "cpt": 639941
+    },
+    "cosphi1": {
+      "unit": "",
+      "cpt": 720981
+    },
+    "energy3": {
+      "unit": "W/h",
+      "cpt": 9402
+    },
+    "energyA2": {
+      "unit": "kWh",
+      "cpt": 383008
+    },
+    "count13": {
+      "unit": "-",
+      "cpt": 83474
+    },
+    "count23": {
+      "unit": "-",
+      "cpt": 5836
+    },
+    "power2": {
+      "unit": "W",
+      "cpt": 179022
+    },
+    "energy2": {
+      "unit": "W/h",
+      "cpt": 11561
+    },
+    "flow_rate2": {
+      "unit": "l/h",
+      "cpt": 172463
+    },
+    "count12": {
+      "unit": "-",
+      "cpt": 5836
+    },
+    "count22": {
+      "unit": "-",
+      "cpt": 5836
+    },
+    "count11": {
+      "unit": "-",
+      "cpt": 5836
+    },
+    "count21": {
+      "unit": "-",
+      "cpt": 5836
+    },
+    "power1": {
+      "unit": "W",
+      "cpt": 48777
+    },
+    "flow_rate1": {
+      "unit": "l/h",
+      "cpt": 47791
+    },
+    "energyA1": {
+      "unit": "kWh",
+      "cpt": 78845
+    },
+    "in11": {
+      "unit": "[-]",
+      "cpt": 145848
+    },
+    "in21": {
+      "unit": "[-]",
+      "cpt": 105475
+    },
+    "humidity1": {
+      "unit": "%",
+      "cpt": 22315
+    },
+    "temp_ext": {
+      "unit": "degC",
+      "cpt": 23757
+    },
+    "temperature2": {
+      "unit": "degC",
+      "cpt": 92454
+    },
+    "temperature1": {
+      "unit": "degC",
+      "cpt": 36621
+    },
+    "humidity2": {
+      "unit": "%",
+      "cpt": 44809
+    }
+  },
+  "sensor_pachy2": {
+    "puissanceA2": {
+      "unit": "kW",
+      "cpt": 331921
+    },
+    "cosphi2": {
+      "unit": "",
+      "cpt": 243318
+    },
+    "energyA2": {
+      "unit": "kWh",
+      "cpt": 269687
+    },
+    "puissanceA1": {
+      "unit": "kW",
+      "cpt": 603320
+    },
+    "cosphi1": {
+      "unit": "",
+      "cpt": 598776
+    },
+    "energyA1": {
+      "unit": "kWh",
+      "cpt": 112845
+    },
+    "forward_temp3": {
+      "unit": "degC",
+      "cpt": 1294767
+    },
+    "power3": {
+      "unit": "W",
+      "cpt": 67535
+    },
+    "energy3": {
+      "unit": "W/h",
+      "cpt": 9052
+    },
+    "temp_diff3": {
+      "unit": "degC",
+      "cpt": 1399452
+    },
+    "flow_rate3": {
+      "unit": "l/h",
+      "cpt": 68620
+    },
+    "count13": {
+      "unit": "-",
+      "cpt": 254647
+    },
+    "return_temp3": {
+      "unit": "degC",
+      "cpt": 1136651
+    },
+    "forward_temp2": {
+      "unit": "degC",
+      "cpt": 1323640
+    },
+    "power2": {
+      "unit": "W",
+      "cpt": 295489
+    },
+    "energy2": {
+      "unit": "W/h",
+      "cpt": 38237
+    },
+    "temp_diff2": {
+      "unit": "degC",
+      "cpt": 1171550
+    },
+    "flow_rate2": {
+      "unit": "l/h",
+      "cpt": 282312
+    },
+    "count12": {
+      "unit": "-",
+      "cpt": 8006
+    },
+    "return_temp2": {
+      "unit": "degC",
+      "cpt": 1261011
+    },
+    "forward_temp1": {
+      "unit": "degC",
+      "cpt": 1296975
+    },
+    "power1": {
+      "unit": "W",
+      "cpt": 64658
+    },
+    "energy1": {
+      "unit": "W/h",
+      "cpt": 8406
+    },
+    "temp_diff1": {
+      "unit": "degC",
+      "cpt": 1286709
+    },
+    "flow_rate1": {
+      "unit": "l/h",
+      "cpt": 64406
+    },
+    "count11": {
+      "unit": "-",
+      "cpt": 8006
+    },
+    "return_temp1": {
+      "unit": "degC",
+      "cpt": 1251070
+    },
+    "count23": {
+      "unit": "-",
+      "cpt": 8016
+    },
+    "count22": {
+      "unit": "-",
+      "cpt": 8005
+    },
+    "count21": {
+      "unit": "-",
+      "cpt": 8005
+    },
+    "in12": {
+      "unit": "[-]",
+      "cpt": 4142613
+    },
+    "in22": {
+      "unit": "[-]",
+      "cpt": 4967862
+    },
+    "in11": {
+      "unit": "[-]",
+      "cpt": 377747
+    },
+    "in21": {
+      "unit": "[-]",
+      "cpt": 139055
+    },
+    "temp_out": {
+      "unit": "degC",
+      "cpt": 30283
+    },
+    "temperature2": {
+      "unit": "degC",
+      "cpt": 46160
+    },
+    "temperature1": {
+      "unit": "degC",
+      "cpt": 46160
+    },
+    "humidity2": {
+      "unit": "%",
+      "cpt": 47105
+    },
+    "humidity1": {
+      "unit": "%",
+      "cpt": 47105
+    }
+  },
+  "sensor_pachy3": {
+    "forward_temp3": {
+      "unit": "degC",
+      "cpt": 607777
+    },
+    "temp_diff3": {
+      "unit": "degC",
+      "cpt": 544638
+    },
+    "in12": {
+      "unit": "[-]",
+      "cpt": 1305147
+    },
+    "in22": {
+      "unit": "[-]",
+      "cpt": 1582823
+    },
+    "return_temp3": {
+      "unit": "degC",
+      "cpt": 603083
+    },
+    "forward_temp2": {
+      "unit": "degC",
+      "cpt": 620896
+    },
+    "temp_diff1": {
+      "unit": "degC",
+      "cpt": 756309
+    },
+    "return_temp2": {
+      "unit": "degC",
+      "cpt": 612171
+    },
+    "temp_diff2": {
+      "unit": "degC",
+      "cpt": 626085
+    },
+    "forward_temp1": {
+      "unit": "degC",
+      "cpt": 723496
+    },
+    "return_temp1": {
+      "unit": "degC",
+      "cpt": 580983
+    },
+    "power3": {
+      "unit": "W",
+      "cpt": 73537
+    },
+    "flow_rate3": {
+      "unit": "l/h",
+      "cpt": 70843
+    },
+    "in21": {
+      "unit": "[-]",
+      "cpt": 25913
+    },
+    "energy3": {
+      "unit": "W/h",
+      "cpt": 6404
+    },
+    "count13": {
+      "unit": "-",
+      "cpt": 37254
+    },
+    "in11": {
+      "unit": "[-]",
+      "cpt": 91221
+    },
+    "count23": {
+      "unit": "-",
+      "cpt": 3997
+    },
+    "count12": {
+      "unit": "-",
+      "cpt": 3997
+    },
+    "count22": {
+      "unit": "-",
+      "cpt": 3998
+    },
+    "count11": {
+      "unit": "-",
+      "cpt": 3997
+    },
+    "count21": {
+      "unit": "-",
+      "cpt": 3997
+    },
+    "energy1": {
+      "unit": "W/h",
+      "cpt": 5314
+    },
+    "power1": {
+      "unit": "W",
+      "cpt": 28428
+    },
+    "flow_rate1": {
+      "unit": "l/h",
+      "cpt": 28064
+    },
+    "energy2": {
+      "unit": "W/h",
+      "cpt": 5700
+    },
+    "power2": {
+      "unit": "W",
+      "cpt": 66418
+    },
+    "flow_rate2": {
+      "unit": "l/h",
+      "cpt": 62822
+    },
+    "P2": {
+      "unit": "kW",
+      "cpt": 250474
+    },
+    "cos_phi2": {
+      "unit": "",
+      "cpt": 244900
+    },
+    "Wa2": {
+      "unit": "kWh",
+      "cpt": 175497
+    },
+    "P1": {
+      "unit": "kW",
+      "cpt": 238175
+    },
+    "cos_phi1": {
+      "unit": "",
+      "cpt": 241953
+    },
+    "Wa1": {
+      "unit": "kWh",
+      "cpt": 56887
+    },
+    "temperature2": {
+      "unit": "degC",
+      "cpt": 19656
+    },
+    "temperature1": {
+      "unit": "degC",
+      "cpt": 14606
+    },
+    "temp_out": {
+      "unit": "degC",
+      "cpt": 18759
+    },
+    "humidity2": {
+      "unit": "%",
+      "cpt": 14775
+    },
+    "humidity1": {
+      "unit": "%",
+      "cpt": 16206
+    }
+  },
+  "sensor_pachy4": {
+    "forward_temp1": {
+      "unit": "degC",
+      "cpt": 1086221
+    },
+    "temp_diff1": {
+      "unit": "degC",
+      "cpt": 944932
+    },
+    "puissanceA2": {
+      "unit": "kW",
+      "cpt": 860116
+    },
+    "cosphi2": {
+      "unit": "",
+      "cpt": 1611601
+    },
+    "energyA2": {
+      "unit": "kWh",
+      "cpt": 270946
+    },
+    "puissanceA1": {
+      "unit": "kW",
+      "cpt": 1983651
+    },
+    "cosphi1": {
+      "unit": "",
+      "cpt": 2794088
+    },
+    "forward_temp3": {
+      "unit": "degC",
+      "cpt": 1067344
+    },
+    "return_temp3": {
+      "unit": "degC",
+      "cpt": 1098754
+    },
+    "return_temp2": {
+      "unit": "degC",
+      "cpt": 1152718
+    },
+    "forward_temp2": {
+      "unit": "degC",
+      "cpt": 1240491
+    },
+    "temp_diff2": {
+      "unit": "degC",
+      "cpt": 1138666
+    },
+    "return_temp1": {
+      "unit": "degC",
+      "cpt": 1087348
+    },
+    "temp_diff3": {
+      "unit": "degC",
+      "cpt": 1259863
+    },
+    "temperature2": {
+      "unit": "degC",
+      "cpt": 32832
+    },
+    "energyA1": {
+      "unit": "kWh",
+      "cpt": 250587
+    },
+    "in22": {
+      "unit": "[-]",
+      "cpt": 521324
+    },
+    "in12": {
+      "unit": "[-]",
+      "cpt": 9325
+    },
+    "in11": {
+      "unit": "[-]",
+      "cpt": 341179
+    },
+    "temperature1": {
+      "unit": "degC",
+      "cpt": 35187
+    },
+    "humidity1": {
+      "unit": "%",
+      "cpt": 29432
+    },
+    "power1": {
+      "unit": "W",
+      "cpt": 27977
+    },
+    "flow_rate1": {
+      "unit": "l/h",
+      "cpt": 27850
+    },
+    "power3": {
+      "unit": "W",
+      "cpt": 27190
+    },
+    "flow_rate3": {
+      "unit": "l/h",
+      "cpt": 26953
+    },
+    "in21": {
+      "unit": "[-]",
+      "cpt": 121176
+    },
+    "count13": {
+      "unit": "-",
+      "cpt": 138584
+    },
+    "energy1": {
+      "unit": "W/h",
+      "cpt": 6264
+    },
+    "temperature3": {
+      "unit": "degC",
+      "cpt": 35939
+    },
+    "energy2": {
+      "unit": "W/h",
+      "cpt": 17685
+    },
+    "energy3": {
+      "unit": "W/h",
+      "cpt": 6454
+    },
+    "power2": {
+      "unit": "W",
+      "cpt": 371230
+    },
+    "flow_rate2": {
+      "unit": "l/h",
+      "cpt": 329889
+    },
+    "humidity2": {
+      "unit": "%",
+      "cpt": 19476
+    },
+    "humidity3": {
+      "unit": "%",
+      "cpt": 3386
+    },
+    "count12": {
+      "unit": "-",
+      "cpt": 6246
+    },
+    "count11": {
+      "unit": "-",
+      "cpt": 6246
+    }
+  },
+  "sensor_pachy5": {
+    "puissanceA2": {
+      "unit": "kW",
+      "cpt": 1172311
+    },
+    "cosphi2": {
+      "unit": "",
+      "cpt": 1847876
+    },
+    "energyA2": {
+      "unit": "kWh",
+      "cpt": 509282
+    },
+    "puissanceA1": {
+      "unit": "kW",
+      "cpt": 1002073
+    },
+    "cosphi1": {
+      "unit": "",
+      "cpt": 1841477
+    },
+    "energyA1": {
+      "unit": "kWh",
+      "cpt": 181792
+    },
+    "in11": {
+      "unit": "[-]",
+      "cpt": 267761
+    },
+    "in21": {
+      "unit": "[-]",
+      "cpt": 15284
+    },
+    "forward_temp2": {
+      "unit": "degC",
+      "cpt": 1040170
+    },
+    "power2": {
+      "unit": "W",
+      "cpt": 784360
+    },
+    "energy2": {
+      "unit": "W/h",
+      "cpt": 7426
+    },
+    "temp_diff2": {
+      "unit": "degC",
+      "cpt": 973991
+    },
+    "flow_rate2": {
+      "unit": "l/h",
+      "cpt": 722294
+    },
+    "count12": {
+      "unit": "-",
+      "cpt": 17277
+    },
+    "return_temp2": {
+      "unit": "degC",
+      "cpt": 976072
+    },
+    "count22": {
+      "unit": "-",
+      "cpt": 4634
+    },
+    "in12": {
+      "unit": "[-]",
+      "cpt": 46843
+    },
+    "in22": {
+      "unit": "[-]",
+      "cpt": 78735
+    },
+    "forward_temp1": {
+      "unit": "degC",
+      "cpt": 764513
+    },
+    "power1": {
+      "unit": "W",
+      "cpt": 46554
+    },
+    "energy1": {
+      "unit": "W/h",
+      "cpt": 5334
+    },
+    "temp_diff1": {
+      "unit": "degC",
+      "cpt": 762664
+    },
+    "flow_rate1": {
+      "unit": "l/h",
+      "cpt": 44206
+    },
+    "count11": {
+      "unit": "-",
+      "cpt": 4634
+    },
+    "return_temp1": {
+      "unit": "degC",
+      "cpt": 651959
+    },
+    "count21": {
+      "unit": "-",
+      "cpt": 4634
+    }
+  },
+  "sensor_pachy5b": {
+    "humidite1": {
+      "unit": "%",
+      "cpt": 18320
+    },
+    "temperature1": {
+      "unit": "degC",
+      "cpt": 24191
+    },
+    "temperature_ext": {
+      "unit": "degC",
+      "cpt": 59539
+    },
+    "humidite_ext": {
+      "unit": "%",
+      "cpt": 34970
+    }
+  }
+}
